@@ -4,7 +4,7 @@ public class CharacterStepping {
 	
 	public static void main(String[] args) {
 
-		String str = "DECODE";		
+		String str = "DeCODE";		
 		int shift = 2;
 		int num =0;
 		char ch;		

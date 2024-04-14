@@ -12,7 +12,7 @@ Factorial of 5 is 120 which has one trailing 0.*/
 public class TrallingZeroCount {
 
 	public static void main(String[] args) {
-		int n= 123;
+		int n= 28;
 		tralingZero(n);
 	}
 	// Function to return trailing 0s in factorial of an interger n 

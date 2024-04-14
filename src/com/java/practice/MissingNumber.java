@@ -16,7 +16,7 @@ public class MissingNumber {
 
 		int arr[] = { 1, 2, 7, 4, 5, 3, 8, 9 };
 		int len = arr.length;
-		
+		System.out.println("len = "+len);
 		int n= len+1;
 		int sum =0;
 		int totalsum = n*(n+1)/2;
