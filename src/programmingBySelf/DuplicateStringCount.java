@@ -1,4 +1,4 @@
-package programmingTest;
+package programmingBySelf;
 
 import java.util.Arrays;
 import java.util.List;
